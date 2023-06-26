@@ -1,0 +1,17 @@
+#dp::before{
+    display: block;
+    content: "";
+    height: 100px;
+}
+
+#dp{
+    background-image: url(./../assets/Moon.JPG);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: white;
+}
+
+footer{
+    background-color: black;
+}
